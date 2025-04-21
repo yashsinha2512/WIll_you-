@@ -30,12 +30,6 @@ Not all code is provided in this repository. This is an overview for inspiration
 
 ---
 
-## License 📄
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
 ## A Note on Code Usage
 
 Feel free to use this project as inspiration for your own interactive web pages.If you build upon this code or use it as a starting point for your project, a simple shoutout or link back to this repository is appreciated.
